@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋 I'm Mariam Adedeji
+A software engineer passionate about front-end development💕.
 
 <!--
 **mariehposa/mariehposa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
