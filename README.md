@@ -21,6 +21,8 @@ A software engineer passionate about front-end development💕.
 <code><img height="25" src="https://user-images.githubusercontent.com/33374159/90877898-b89e3200-e39c-11ea-87c8-0953d008e43e.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/33374159/90877991-db304b00-e39c-11ea-8c30-21e4f92a78a5.png"></code>
 
+![Mariehposa's github stats](https://github-readme-stats.vercel.app/api?username=mariehposa&count_private=true&show_icons=true&theme=tokyonight)(https://github.com/mariehposa/github-readme-stats)
+
 <!-- ## Get in touch -->
 <p align="center">
     <a href="https://mariamadedeji.com">Website</a> *
