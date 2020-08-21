@@ -1,6 +1,5 @@
-<p align="center">
-    <h1> Hi there 👋 I'm Mariam Adedeji </h1>
-</p>
+<h1 align="center"> Hi there 👋 I'm Mariam Adedeji </h1>
+
 A software engineer passionate about front-end development💕.
 
 -  :computer: **I'm open to remote software engineering jobs, and willing to relocate to any country in EMEA.**
