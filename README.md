@@ -21,8 +21,10 @@ A software engineer passionate about front-end development💕.
 <code><img height="25" src="https://user-images.githubusercontent.com/33374159/90877898-b89e3200-e39c-11ea-87c8-0953d008e43e.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/33374159/90877991-db304b00-e39c-11ea-8c30-21e4f92a78a5.png"></code>
 
-## Get in touch
-- Personal site: https://mariamadedeji.com/
-- Twitter: https://twitter.com/Mariehposah
-- Linkedin: https://linkedin.com/in/adedeji-mariam
-- Dev.to: https://dev.to/mariehposa
+<!-- ## Get in touch -->
+<p align="center">
+    <a href="https://mariamadedeji.com">Website</a> *
+    <a href="https://linkedin.com/in/adedeji-mariam">Linkedin</a> *
+    <a href="https://twitter.com/Mariehposah">Twitter</a> *
+    <a href="https://dev.to/mariehposa">Dev</a>
+</p>
