@@ -23,7 +23,7 @@ A software engineer passionate about front-end development💕.
 
 ![Mariehposa's github stats](https://github-readme-stats.vercel.app/api?username=mariehposa&count_private=true&show_icons=true&theme=tokyonight)
 
-</hr>
+<hr />
 <!-- ## Get in touch -->
 <p align="center">
     <a href="https://mariamadedeji.com">Website</a> *
