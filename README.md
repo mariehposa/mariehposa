@@ -2,7 +2,7 @@
 
 A software engineer passionate about front-end development💕.
 
--  :computer: **I'm open to remote software engineering jobs, and willing to relocate.**
+-  :computer: **I'm open to software engineering jobs.**
 - 🌱 I’m currently exploring Azure and AWS, while having a bit of fun with data structures and algorithms with Python.
 - :bulb: I'm interested in all things web: frontend, backend and everything in between (just kidding, I meant cloud engineering).
 - 😄 Pronouns: she/her :girl:
