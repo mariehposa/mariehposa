@@ -28,8 +28,8 @@ A software engineer passionate about front-end development and devOps💕.
 <hr />
 <!-- ## Get in touch -->
 <p align="center">
-    <a href="https://mariamadedeji.com">Website</a> *
+    <a href="https://mariamadedeji.com">Portfolio</a> *
     <a href="https://linkedin.com/in/adedeji-mariam">Linkedin</a> *
     <a href="https://twitter.com/Mariehposah">Twitter</a> *
-    <a href="https://dev.to/mariehposa">Dev</a>
+    <a href="https://dev.to/mariehposa">Blog</a>
 </p>
