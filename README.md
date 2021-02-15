@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 I'm Mariam Adedeji </h1>
 
-A software engineer passionate about front-end development💕.
+A software engineer passionate about front-end development and devOps💕.
 
-- 🌱 I’m currently exploring Typescript, Azure and AWS, while having a bit of fun with data structures and algorithms with Python.
+- 🌱 I’m currently exploring devOps while having a bit of fun with data structures and algorithms with Python.
 - :bulb: I'm interested in all things web: frontend, backend and everything in between (just kidding, I meant cloud engineering).
 - 😄 Pronouns: she/her :girl:
 
