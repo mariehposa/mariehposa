@@ -7,7 +7,7 @@
     <a href="https://dev.to/mariehposa">Blog</a>
 </p>
 
-A software engineer passionate about front-end development and devOps💕.
+I'm a software engineer passionate about front-end development and cloud engineering💕.
 
 - 🌱 I’m currently exploring devOps while having a bit of fun with data structures and algorithms with Python.
 - :bulb: I'm interested in all things web: frontend, backend and everything in between (just kidding, I meant cloud engineering).
