@@ -1,4 +1,11 @@
-<h1 align="center"> Hi there 👋 I'm Mariam Adedeji </h1>
+<h1 align="center"> Hi there 👋 I'm Mariam 💕 </h1>
+
+<p align="center">
+    <a href="https://mariamadedeji.com">Portfolio</a> *
+    <a href="https://linkedin.com/in/adedeji-mariam">Linkedin</a> *
+    <a href="https://twitter.com/Mariehposah">Twitter</a> *
+    <a href="https://dev.to/mariehposa">Blog</a>
+</p>
 
 A software engineer passionate about front-end development and devOps💕.
 
@@ -24,12 +31,3 @@ A software engineer passionate about front-end development and devOps💕.
 <code><img height="30" src="https://user-images.githubusercontent.com/33374159/90877991-db304b00-e39c-11ea-8c30-21e4f92a78a5.png"></code>
 
 ![Mariehposa's github stats](https://github-readme-stats.vercel.app/api?username=mariehposa&count_private=true&show_icons=true&theme=tokyonight)
-
-<hr />
-<!-- ## Get in touch -->
-<p align="center">
-    <a href="https://mariamadedeji.com">Portfolio</a> *
-    <a href="https://linkedin.com/in/adedeji-mariam">Linkedin</a> *
-    <a href="https://twitter.com/Mariehposah">Twitter</a> *
-    <a href="https://dev.to/mariehposa">Blog</a>
-</p>
