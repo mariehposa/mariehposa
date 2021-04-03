@@ -13,7 +13,7 @@ I'm a software engineer passionate about front-end development and cloud enginee
 - :bulb: I'm interested in all things web: Frontend, Backend, and Cloud engineering.
 - 😄 Pronouns: she/her :girl:
 
-## My Skills
+## Technologies & Tools
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877362-d5863580-e39b-11ea-8a0f-046a2a1a06fa.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90876757-fbf7a100-e39a-11ea-9b7f-c51ef1e18a70.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90936736-b6b88b00-e3fd-11ea-8458-016d84bee829.png"></code>
@@ -36,9 +36,12 @@ I'm a software engineer passionate about front-end development and cloud enginee
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490667-722cbc00-94c3-11eb-98e4-7afffef8789f.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490729-f4b57b80-94c3-11eb-93d3-0db02f07b961.png"></code>
 
+## :trophy:Github Stats
 <div style="display: flex">
     <a href="https://github.com/mariehposa">
       <img src="https://github-readme-stats.vercel.app/api?username=mariehposa&count_private=true&show_icons=true&theme=tokyonight" height="200rem"/>
+    </a>
+    <a href="https://github.com/mariehposa"> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariehposa&layout=compact&theme=tokyonight" height="200rem"/>
     </a>
 </div>
