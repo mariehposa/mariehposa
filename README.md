@@ -30,4 +30,7 @@ I'm a software engineer passionate about front-end development and cloud enginee
 <code><img height="30" src="https://user-images.githubusercontent.com/33374159/90877898-b89e3200-e39c-11ea-87c8-0953d008e43e.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/33374159/90877991-db304b00-e39c-11ea-8c30-21e4f92a78a5.png"></code>
 
+<div>
 ![Mariehposa's github stats](https://github-readme-stats.vercel.app/api?username=mariehposa&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariehposa&theme=tokyonight)
+</div>
