@@ -1,14 +1,15 @@
 <h1 align="center"> Hi there 👋 I'm Mariam 💕 </h1>
 
 <p align="center">
-    <a href="https://mariamadedeji.com">Portfolio</a> *
+    <a href="https://dev.to/mariehposa">Blog</a> * 
     <a href="https://linkedin.com/in/adedeji-mariam">Linkedin</a> *
     <a href="https://twitter.com/Mariehposah">Twitter</a> *
-    <a href="https://dev.to/mariehposa">Blog</a>
+    <a href="https://mariamadedeji.com">Portfolio</a>
 </p>
 
 I'm a software engineer passionate about front-end development and cloud engineering💕.
 
+- ☁️ @aws cloud community builder.
 - 🌱 I’m currently exploring devOps while having a bit of fun with data structures and algorithms with Python.
 - :bulb: I'm interested in all things web: Frontend, Backend, and Cloud engineering.
 - 😄 Pronouns: she/her :girl:
