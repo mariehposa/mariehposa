@@ -9,7 +9,7 @@
 
 I'm a software engineer passionate about front-end development and cloud engineering💕.
 
-- ☁️ @aws cloud community builder.
+- ☁️ [AWS](https://aws.amazon.com/) Community Builder.
 - 🌱 I’m currently exploring devOps while having a bit of fun with data structures and algorithms with Python.
 - :bulb: I'm interested in all things web: Frontend, Backend, and Cloud engineering.
 - 😄 Pronouns: she/her :girl:
