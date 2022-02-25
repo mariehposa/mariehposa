@@ -17,9 +17,6 @@ I'm a software engineer passionate about front-end development and cloud enginee
 ## 🧰Technologies & Tools
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877362-d5863580-e39b-11ea-8a0f-046a2a1a06fa.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90876757-fbf7a100-e39a-11ea-9b7f-c51ef1e18a70.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90936736-b6b88b00-e3fd-11ea-8458-016d84bee829.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90936800-de0f5800-e3fd-11ea-922f-d8ba2ff96e93.jpg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90936853-0008da80-e3fe-11ea-98b4-00161e8221aa.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877446-fb133f00-e39b-11ea-94ae-828c3a4eb372.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877523-1aaa6780-e39c-11ea-88b1-2a0046f8d735.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/90937109-87564e00-e3fe-11ea-82bb-264bde89fefd.jpg"></code>
@@ -35,7 +32,6 @@ I'm a software engineer passionate about front-end development and cloud enginee
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490622-3b56a600-94c3-11eb-9927-7b200ade776a.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490643-5e815580-94c3-11eb-94d7-0abf450cdea7.jpg"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490667-722cbc00-94c3-11eb-98e4-7afffef8789f.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490729-f4b57b80-94c3-11eb-93d3-0db02f07b961.png"></code>
 
 ## :trophy:Github Stats
 <div style="display: flex">
