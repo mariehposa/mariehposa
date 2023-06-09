@@ -3,42 +3,30 @@
 <p align="center">
     <a href="https://dev.to/mariehposa">Blog</a> * 
     <a href="https://linkedin.com/in/adedeji-mariam">Linkedin</a> *
-    <a href="https://twitter.com/Mariehposah">Twitter</a> *
-    <a href="https://mariamadedeji.com">Portfolio</a>
+    <a href="https://twitter.com/Mariehposah">Twitter</a>
 </p>
 
-I'm a software engineer passionate about front-end development and cloud engineering💕.
+I'm a passionate software engineer with 4+ years of experience in building robust and scalable applications. I specialize in full-stack development, with expertise in frontend, backend, and cloud engineering. I also have a keen interest in blockchain development, cybersecurity, and quantum computing.
 
-- ☁️ [AWS](https://aws.amazon.com/) Community Builder.
-- 🌱 I’m currently exploring devOps while having a bit of fun with data structures and algorithms with Python.
-- :bulb: I'm interested in all things web: Frontend, Backend, and Cloud engineering.
-- 😄 Pronouns: she/her :girl:
+💼 **Professional Experience**:
+- Frontend: HTML, CSS, LESS, SASS, Styled Components, JavaScript, React, Redux, Next.js, Storybook, Axios, Formik, Shopify, etc.
+- DevOps: AWS, Digital Ocean, Jenkins, Kubernetes, CircleCI, Scripting, Nginx, Docker, Ansible, Terraform, Terratest, Golang, etc.
+- Backend: Node.js, Express, Socket.io, Knex, Jest, Supertest, Python, PostgreSQL, Heroku, etc.
+- Tools: AWS CLI, AWS Console, Git, VS Code, Vim, LucidChart, Canva, etc.
 
-## 🧰Technologies & Tools
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877362-d5863580-e39b-11ea-8a0f-046a2a1a06fa.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90876757-fbf7a100-e39a-11ea-9b7f-c51ef1e18a70.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877446-fb133f00-e39b-11ea-94ae-828c3a4eb372.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877523-1aaa6780-e39c-11ea-88b1-2a0046f8d735.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90937109-87564e00-e3fe-11ea-82bb-264bde89fefd.jpg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877572-301f9180-e39c-11ea-8bfb-271c23312166.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90936927-30507900-e3fe-11ea-99b3-1c4b9efdf3ca.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877739-783eb400-e39c-11ea-91df-07ed45d7399e.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490603-14986f80-94c3-11eb-87e7-c728816f5ca3.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877898-b89e3200-e39c-11ea-87c8-0953d008e43e.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/90877991-db304b00-e39c-11ea-8c30-21e4f92a78a5.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490541-ab186100-94c2-11eb-8c40-a9f5a168d42d.jpg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490578-e31fa400-94c2-11eb-90ff-11177f49cd64.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490586-fb8fbe80-94c2-11eb-81d8-1b5cfcd0a2c6.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490622-3b56a600-94c3-11eb-9927-7b200ade776a.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490643-5e815580-94c3-11eb-94d7-0abf450cdea7.jpg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33374159/113490667-722cbc00-94c3-11eb-98e4-7afffef8789f.png"></code>
+🔨 **What I Do**:
+I'm proficient in developing and maintaining end-to-end web applications, ensuring seamless user experiences across different devices. I have a strong foundation in frontend technologies, crafting beautiful UIs and leveraging powerful frameworks like React and Next.js. On the backend, I excel in Node.js and Express, building scalable APIs and integrating them with databases like PostgreSQL. I'm well-versed in DevOps practices, using tools like AWS, Docker, and Kubernetes to deploy and manage cloud-based applications.
 
-## :trophy:Github Stats
-<div style="display: flex">
-    <a href="https://github.com/mariehposa">
-      <img src="https://github-readme-stats.vercel.app/api?username=mariehposa&count_private=true&show_icons=true&theme=tokyonight" height="200px" width="480px"/>
-    </a>
-    <a href="https://github.com/mariehposa"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariehposa&layout=compact&theme=tokyonight" height="200px" width="400px"/>
-    </a>
-</div>
+🚀 **Projects and Contributions**:
+I have contributed to various open-source projects, such as [Firefox profiler](https://github.com/firefox-devtools/profiler). I love sharing my knowledge and experiences through tech articles on [Dev.to](https://dev.to/mariehposa).
+
+🌱 **Interests**:
+Aside from software engineering, I have a keen interest for adventurous travel✈️ and exploring new recipes🧑‍🍳.
+
+📫 **Let's Connect**:
+Feel free to reach out to me through [Email](mailto:mariamadedeji.work@gmail.com) or [LinkedIn](https://linkedin.com/in/adedeji-mariam). I'm open to new opportunities, collaboration, or simply having a conversation about technology and software development.
+
+🌐 **Learn More**:
+To explore my work and projects in detail, please visit my [blog](https://dev.to/mariehposa) and check out my GitHub repositories below. I'm constantly working on exciting projects, so make sure to follow me for updates!
+
+Thanks for stopping by, and I look forward to connecting with you!😊
