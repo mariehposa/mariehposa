@@ -13,7 +13,8 @@ I'm a passionate software engineer with 4+ years of experience in building robus
 - Frontend: HTML, CSS, LESS, SASS, Styled Components, JavaScript, React, Redux, Next.js, Storybook, Axios, Formik, Shopify, etc.
 - DevOps: AWS, Digital Ocean, Jenkins, Kubernetes, CircleCI, Scripting, Nginx, Docker, Ansible, Terraform, Terratest, Golang, etc.
 - Backend: Node.js, Express, Socket.io, Knex, Jest, Supertest, Python, PostgreSQL, Heroku, etc.
-- Tools: AWS CLI, AWS Console, Git, VS Code, Vim, LucidChart, Canva, etc.
+- Blockchain: Solidity, Smart contracts, Ganache, Truffle, Hyperledger, etc.
+- Tools: AWS CLI, AWS Console, Git, VS Code, Vim, LucidChart, Canva, UMLet, etc.
 
 🔨 **What I Do**:
 I'm proficient in developing and maintaining end-to-end web applications, ensuring seamless user experiences across different devices. I have a strong foundation in frontend technologies, crafting beautiful UIs and leveraging powerful frameworks like React and Next.js. On the backend, I excel in Node.js and Express, building scalable APIs and integrating them with databases like PostgreSQL. I'm well-versed in DevOps practices, using tools like AWS, Docker, and Kubernetes to deploy and manage cloud-based applications.
