@@ -7,7 +7,7 @@
     <a href="https://twitter.com/Mariehposah">Twitter</a>
 </p>
 
-I'm a passionate software engineer with 4+ years of experience in building robust and scalable applications. I specialize in full-stack development, with expertise in frontend, backend, and cloud engineering. I also have a keen interest in blockchain development, cybersecurity, and quantum computing.
+I'm a passionate software engineer with 3+ years of experience in building robust and scalable applications. I specialize in full-stack development, with expertise in frontend, backend, and cloud engineering. I also have a keen interest in blockchain development, cybersecurity, and quantum computing.
 
 💼 **Professional Experience**:
 - Frontend: HTML, CSS, LESS, SASS, Styled Components, JavaScript, React, Redux, Next.js, Storybook, Axios, Formik, Shopify, etc.
