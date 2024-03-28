@@ -2,8 +2,7 @@
 
 <p align="center">
     <a href="https://mariamadedeji.com">Portfolio</a> * 
-    <a href="https://dev.to/mariehposa">Blog</a> * 
-    <a href="https://twitter.com/Mariehposah">Twitter</a>
+    <a href="https://dev.to/mariehposa">Blog</a>
 </p>
 
 I'm a passionate software engineer with 3+ years of experience in building robust and scalable applications. I specialize in full-stack development, with expertise in frontend, backend, and cloud engineering. I also have a keen interest in blockchain development.
