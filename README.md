@@ -2,7 +2,6 @@
 
 <p align="center">
     <a href="https://mariamadedeji.com">Portfolio</a> * 
-    <a href="https://linkedin.com/in/adedeji-mariam">Linkedin</a> *
     <a href="https://dev.to/mariehposa">Blog</a> * 
     <a href="https://twitter.com/Mariehposah">Twitter</a>
 </p>
@@ -26,7 +25,7 @@ I have contributed to various open-source projects, such as [Firefox profiler](h
 Aside from software engineering, I have a keen interest in adventurous travel✈️ and exploring new recipes🧑‍🍳.
 
 📫 **Let's Connect**:
-Feel free to reach out to me through [Email](mailto:mariamadedeji.work@gmail.com) or [LinkedIn](https://linkedin.com/in/adedeji-mariam). I'm open to new opportunities, collaboration, or simply having a conversation about technology and software development.
+Feel free to reach out to me through [Email](mailto:mariamadedeji.work@gmail.com). I'm open to new opportunities, collaboration, or simply having a conversation about technology and software development.
 
 🌐 **Learn More**:
 To explore my work and projects in detail, please visit my [blog](https://dev.to/mariehposa) and check out my GitHub repositories below. I'm constantly working on exciting projects, so make sure to follow me for updates!
